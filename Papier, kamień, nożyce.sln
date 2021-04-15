@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Papier, kamień, nożyce", "Papier, kamień, nożyce\Papier, kamień, nożyce.csproj", "{BF318EAF-25ED-48AD-A23B-819DDE0BFD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF318EAF-25ED-48AD-A23B-819DDE0BFD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF318EAF-25ED-48AD-A23B-819DDE0BFD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF318EAF-25ED-48AD-A23B-819DDE0BFD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF318EAF-25ED-48AD-A23B-819DDE0BFD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4F5BF0-C9C4-451A-940D-B0B06A08838F}
+	EndGlobalSection
+EndGlobal
